@@ -15,4 +15,6 @@ python .\test\mcm.py
 ```
 getting the image:
 
+<img width="400" height="250" alt="example_mcm" src="https://github.com/user-attachments/assets/9b4e9aee-c83b-49c5-a757-aa48330d1f08" />
+
 
